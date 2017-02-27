@@ -1,5 +1,5 @@
 {
-  "name": "at-exit",
+  "name": "at-exit-hook",
   "version": "1.0.0",
   "description": "register js function which can be called before process exit",
   "main": "index.js",
